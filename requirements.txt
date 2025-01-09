@@ -1,0 +1,16 @@
+requests
+bs4
+lxml
+pillow
+pytesseract
+python-slugify
+pywin32
+pyotp
+selenium
+webdriver_manager
+pyreadline3
+cryptography
+survey
+eel
+telethon
+undetected_chromedriver
